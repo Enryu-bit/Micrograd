@@ -1,2 +1,3 @@
-# MicroGrad <br>
-Backward prop engine with NN layer over it from scratch
+# Micrograd
+
+A tiny, scalar-valued Autograd engine implemented from first principles in Python. This project builds a dynamic computational graph to perform backpropagation, effectively mimicking the core logic of PyTorch on a fundamental level. It is designed as a minimalist educational tool to demonstrate how neural networks, gradients, and automatic differentiation work under the hood without the complexity of heavy frameworks.
